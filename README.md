@@ -14,6 +14,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/dgayathri0808-wq/leetcode/tree/master/0007-reverse-integer) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/dgayathri0808-wq/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/dgayathri0808-wq/leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2544-alternating-digit-sum](https://github.com/dgayathri0808-wq/leetcode/tree/master/2544-alternating-digit-sum) |
