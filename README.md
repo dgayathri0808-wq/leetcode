@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/dgayathri0808-wq/leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/dgayathri0808-wq/leetcode/tree/master/0136-single-number) |
 | [2553-separate-the-digits-in-an-array](https://github.com/dgayathri0808-wq/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2670-find-the-distinct-difference-array](https://github.com/dgayathri0808-wq/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dgayathri0808-wq/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/dgayathri0808-wq/leetcode/tree/master/0013-roman-to-integer) |
+| [2670-find-the-distinct-difference-array](https://github.com/dgayathri0808-wq/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 ## String
 |  |
 | ------- |
