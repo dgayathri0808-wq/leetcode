@@ -12,6 +12,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/dgayathri0808-wq/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/dgayathri0808-wq/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/dgayathri0808-wq/leetcode/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/dgayathri0808-wq/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2553-separate-the-digits-in-an-array](https://github.com/dgayathri0808-wq/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2670-find-the-distinct-difference-array](https://github.com/dgayathri0808-wq/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 ## Two Pointers
@@ -61,6 +62,7 @@
 | [0020-valid-parentheses](https://github.com/dgayathri0808-wq/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dgayathri0808-wq/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/dgayathri0808-wq/leetcode/tree/master/0058-length-of-last-word) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/dgayathri0808-wq/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Stack
 |  |
 | ------- |
