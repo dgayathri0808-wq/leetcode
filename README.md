@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/dgayathri0808-wq/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/dgayathri0808-wq/leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/dgayathri0808-wq/leetcode/tree/master/0136-single-number) |
+| [1480-running-sum-of-1d-array](https://github.com/dgayathri0808-wq/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/dgayathri0808-wq/leetcode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/dgayathri0808-wq/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2670-find-the-distinct-difference-array](https://github.com/dgayathri0808-wq/leetcode/tree/master/2670-find-the-distinct-difference-array) |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/dgayathri0808-wq/leetcode/tree/master/0136-single-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/dgayathri0808-wq/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
