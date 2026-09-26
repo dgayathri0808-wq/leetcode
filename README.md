@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/dgayathri0808-wq/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dgayathri0808-wq/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dgayathri0808-wq/leetcode/tree/master/0217-contains-duplicate) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/dgayathri0808-wq/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/dgayathri0808-wq/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/dgayathri0808-wq/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/dgayathri0808-wq/leetcode/tree/master/1929-concatenation-of-array) |
@@ -32,6 +33,7 @@
 | [0007-reverse-integer](https://github.com/dgayathri0808-wq/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dgayathri0808-wq/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/dgayathri0808-wq/leetcode/tree/master/0013-roman-to-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/dgayathri0808-wq/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dgayathri0808-wq/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/dgayathri0808-wq/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/dgayathri0808-wq/leetcode/tree/master/2235-add-two-integers) |
